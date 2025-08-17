@@ -1,0 +1,59 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+
+char lower_shift(char c, int n){
+    c+= n;
+    while(c > 'z'){
+        c-=26;
+    }
+    while(c < 'a'){
+        c+=26;
+    }
+    return c;
+
+}
+
+char upper_shift(char c, int n){
+    c+= n;
+    while(c > 'Z'){
+        c-=26;
+
+    }
+    while(c < 'A'){
+        c+= 26;
+    }
+    return c;
+}
+
+int main(){
+    string mystring;
+    cout <<"Enter the sentence\n";
+    getline(cin, mystring);
+    int n;
+    cout <<"enter the number of shifts\n";
+    cin >> n;
+    string newstring;
+
+    for(char i : mystring){
+        if(isalpha(i)){
+            if(islower(i)){
+                newstring+= lower_shift(i, n);
+
+            }else{
+                newstring+= upper_shift(i,n);
+        }
+
+        }else{
+            newstring+= i;
+        }
+        
+
+    }
+    cout << newstring <<endl;
+    return 0;
+
+
+}
+    
