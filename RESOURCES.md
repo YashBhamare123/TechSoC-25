@@ -4,6 +4,39 @@ As you work on your problem statements, you will often find yourselves facing is
 
 We were there in your position not too long ago, facing the same issues. We've compiled a list of the resources that helped us out the most back then; we hope they can do the same for you. 
 
+## 🎥 YouTube Courses
+
+### Python Learning
+
+**For Complete Beginners:**
+- **Programming with Mosh:** [Python Tutorial for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - 6 hour comprehensive course
+- **freeCodeCamp:** [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) - 4.5 hour beginner-friendly tutorial
+- **Chai Aur Code**: [Python Course](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s)
+
+
+### C++ Learning
+
+**🌟 For Complete Beginners:**
+- 📺 **Code with Harry**[C++ Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
+- 📺 **freeCodeCamp:** [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y) 
+- 📺 **Programming with Mosh:** [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8)
+---
+
+## Git & Version Control
+
+**📚 Learning Git:**
+-  **Git Tutorial for Beginners:** [Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc) comprehensive guide
+- **Quick Git Tutorial** [Tutorial](https://youtu.be/a9u2yZvsqHA?si=pouM_uBzYW7lZoze)
+-  **Learn Git Branching:** [Interactive Tutorial](https://learngitbranching.js.org/) - Visual, interactive learning where you can type commands and see how git branches update in real-time.
+
+---
+## Development Tools & Setup
+
+### Code Editors & IDEs
+
+**🆓 Free Options:**
+- **Visual Studio Code:** [Download](https://code.visualstudio.com/) - Lightweight, powerful, with great extensions
+- **PyCharm Community:** [Download](https://www.jetbrains.com/pycharm/download/) - Excellent for Python development
 ---
 
 ## 🌐 Websites
@@ -32,41 +65,7 @@ An Indian startup, GeeksForGeeks has cemented itself as one of the main referenc
 
 ---
 
-## 🎥 YouTube Courses
 
-### Python Learning
-
-**For Complete Beginners:**
-- **Programming with Mosh:** [Python Tutorial for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - 6 hour comprehensive course
-- **freeCodeCamp:** [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) - 4.5 hour beginner-friendly tutorial
-- **Chai Aur Code**: [Python Course](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s)
-
-
-### C++ Learning
-
-**🌟 For Complete Beginners:**
-- 📺 **Code with Harry**[C++ Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
-- 📺 **freeCodeCamp:** [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y) 
-- 📺 **Programming with Mosh:** [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8)
----
-
-## Development Tools & Setup
-
-### Code Editors & IDEs
-
-**🆓 Free Options:**
-- **Visual Studio Code:** [Download](https://code.visualstudio.com/) - Lightweight, powerful, with great extensions
-- **PyCharm Community:** [Download](https://www.jetbrains.com/pycharm/download/) - Excellent for Python development
-
-
-### Git & Version Control
-
-**📚 Learning Git:**
--  **Git Tutorial for Beginners:** [Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc) comprehensive guide
-- **Quick Git Tutorial** [Tutorial](https://youtu.be/a9u2yZvsqHA?si=pouM_uBzYW7lZoze)
--  **Learn Git Branching:** [Interactive Tutorial](https://learngitbranching.js.org/) - Visual, interactive learning where you can type commands and see how git branches update in real-time.
-
----
 
 ## 🤝 Community & Help
 
